@@ -50,3 +50,4 @@ MonoBehaviour:
   rightLowerArm: {fileID: 21300000, guid: e413862bed2dc334d81fb387b7967b57, type: 3}
   chest: {fileID: 21300000, guid: 2db2bdd9d42c0f5409ee49340ed79442, type: 3}
   body: {fileID: 21300000, guid: e1934e60560b1564f814fd12e95a2981, type: 3}
+  clothColor: {r: 1, g: 1, b: 1, a: 1}

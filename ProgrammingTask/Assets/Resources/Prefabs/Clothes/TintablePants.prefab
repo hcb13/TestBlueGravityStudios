@@ -49,3 +49,4 @@ MonoBehaviour:
   leftUpperLeg: {fileID: 21300000, guid: 8d716ce049f7c6f4abdadb8dbb4f80bd, type: 3}
   rightLowerLeg: {fileID: 21300000, guid: a0de73476f8ce2a4e911ffb02aa04c84, type: 3}
   rightUpperLeg: {fileID: 21300000, guid: 1822120526072a4469d2405123f5acd9, type: 3}
+  clothColor: {r: 1, g: 1, b: 1, a: 1}
