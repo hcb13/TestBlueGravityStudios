@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public abstract class ButtonOptionNPC : MonoBehaviour, IButtonOptionNPC
 {
     [SerializeField]
-    private Button _button;
+    protected Button _button;
     [SerializeField]
     private GameObject _arrow1;
     [SerializeField]
@@ -17,7 +17,7 @@ public abstract class ButtonOptionNPC : MonoBehaviour, IButtonOptionNPC
         _arrow1.SetActive(false);
         _arrow2.SetActive(false);
 
-        _button.onClick.AddListener(SelectOption);        
+               
     }
 
     public virtual void SelectOption()
